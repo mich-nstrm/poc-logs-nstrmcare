@@ -1,0 +1,20 @@
+{"name":"server","hostname":"e1139ce46e4f","pid":1,"level":30,"msg":"App listening at http://localhost:3000","time":"2024-10-29T15:38:17.829Z","v":0}
+{"name":"server","hostname":"40f73cb683ae","pid":1,"level":30,"msg":"App listening at http://localhost:3000","time":"2024-10-29T16:00:51.611Z","v":0}
+{"name":"server","hostname":"penguin","pid":31145,"level":30,"msg":"App listening at http://localhost:3000","time":"2024-10-29T16:01:50.588Z","v":0}
+{"name":"server","hostname":"penguin","pid":31594,"level":30,"msg":"Test","time":"2024-10-29T16:03:21.750Z","v":0}
+{"name":"server","hostname":"penguin","pid":32198,"level":30,"msg":"Test","time":"2024-10-29T16:05:25.207Z","v":0}
+{"name":"server","hostname":"penguin","pid":32283,"level":30,"msg":"toto","time":"2024-10-29T16:05:41.400Z","v":0}
+{"name":"server","hostname":"penguin","pid":356,"level":30,"msg":"toto","time":"2024-10-29T16:07:34.463Z","v":0}
+{"name":"server","hostname":"penguin","pid":1129,"level":30,"msg":"toto","time":"2024-10-29T16:10:02.797Z","v":0}
+{"name":"server","hostname":"penguin","pid":2367,"level":30,"msg":"toto","time":"2024-10-29T16:13:34.396Z","v":0}
+{"name":"server","hostname":"penguin","pid":2502,"level":30,"msg":"toto","time":"2024-10-29T16:13:58.106Z","v":0}
+{"name":"server","hostname":"penguin","pid":5367,"level":30,"msg":"toto","time":"2024-10-29T16:24:08.173Z","v":0}
+{"name":"server","hostname":"penguin","pid":7494,"level":30,"msg":"toto","time":"2024-10-29T16:30:43.480Z","v":0}
+{"level":"info","message":"Hello again distributed logs"}
+{"level":"error","message":"Hello again distributed logs"}
+{"level":"error","message":"Hello again distributed logs"}
+{"level":"info","message":"Info message"}
+{"level":"error","message":"Error message"}
+{"level":"warn","message":"Warning message"}
+{"level":"error","message":"test Error message"}
+{"level":"error","message":"test Error message"}
